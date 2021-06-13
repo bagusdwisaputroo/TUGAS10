@@ -1,7 +1,7 @@
 # TUGAS10
 PRAKTIKUM BASIS DATA TUGAS 10 PERTEMUAN 12
 
-#ADD
+# ADD
 Membuat form input tambah data pada index.php
 <img width="960" alt="INDEX ADD" src="https://user-images.githubusercontent.com/83754006/121810533-762b4600-cc8b-11eb-81ff-01f8c61b15a9.png">
 
@@ -14,7 +14,7 @@ Membuat file add.php
 Berhasil ditambahkan
 <img width="960" alt="BERHASIL ADD" src="https://user-images.githubusercontent.com/83754006/121810550-8e9b6080-cc8b-11eb-8fc1-8cc271c3b3e5.png">
 
-#UPDATE/EDIT
+# UPDATE/EDIT
 Membuat file update.php
 <img width="960" alt="UPDATE" src="https://user-images.githubusercontent.com/83754006/121810604-bee2ff00-cc8b-11eb-9dea-4383936a0f24.png">
 
@@ -30,7 +30,7 @@ File proses_update.php digunakan untuk proses update data dari form update.php
 Berhasil update
 <img width="960" alt="BERHASIL UPDATE" src="https://user-images.githubusercontent.com/83754006/121810722-2436f000-cc8c-11eb-9a23-20d693501dac.png">
 
-#DELETE
+# DELETE
 Ketika klik hapus maka terarah ke link delete.php?no_faktur=(no_faktur yang akan dihapus) dan tampilan berhasil delete
 <img width="960" alt="BERHASIL HAPUS" src="https://user-images.githubusercontent.com/83754006/121810773-4df01700-cc8c-11eb-9213-3cde99513eff.png">
 
